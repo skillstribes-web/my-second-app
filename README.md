@@ -1,1 +1,2 @@
-# my-second-app
+# enter to learn , leave to serve
+
